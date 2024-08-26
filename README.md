@@ -1,3 +1,5 @@
+![Telecome Churn Project](https://github.com/Manish01994/Power-BI-Telecome-Churn-Analysis-Project/blob/main/Call%20Center2.jpg)
+
 Telecome Churn Analysis 
 Overview
 This Power BI project is focused on performing a comprehensive analysis of customer churn. Churn is a critical business metric that indicates the rate at which customers stop doing business with a company. By analyzing churn data, businesses can identify key factors contributing to customer attrition and develop strategies to retain customers.
